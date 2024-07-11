@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Pv5Z4BFmEU7a/U3qn8NTUmFj8hYgsCXHySa0d5Vx1hQ=",
+  "Source": "WebAPISqlServer",
+  "BasePath": "_content/WebAPISqlServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
